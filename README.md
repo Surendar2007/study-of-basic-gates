@@ -1,6 +1,7 @@
 ### study-of-basic-gates
 S.D. SURENDAR
 24901073
+IOT
 
 **AIM:** 
 
